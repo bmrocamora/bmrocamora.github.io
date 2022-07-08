@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bernardo Martinez / Site Title"
 title_separator          : "-"
-name                     : &name "Bernardo Martinez Rocamora Jr"
+name                     : &name "Bernardo Martinez Rocamora Jr."
 description              : &description "personal description"
 url                      : https://bmrocamora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bernardo Martinez"
-  avatar           : "bio-photo.png"
+  name             : "Bernardo Martinez Rocamora Jr."
+  avatar           : "bio-photo.jpg"
   bio              : "Aero & Robots"
   location         : "Morgantown, WV"
-  employer         :
+  employer         : "West Virginia University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=y-0-WwwAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=y-0-WwwAAAAJ/"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Bernardo-Martinez-2"
+  researchgate     : "https://www.researchgate.net/profile/Bernardo-Martinez-2/"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8048-0523"
+  linkedin         : "https://www.linkedin.com/in/bmrocamora/"
+  orcid            : "https://orcid.org/0000-0001-8048-0523/"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
