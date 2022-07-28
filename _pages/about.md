@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Bernardo Martinez Rocamora Junior personal website"
+title: "Bernardo Martinez Rocamora Jr."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello, stranger! My name is Bernardo and I was born in São Paulo, Brazil. I have a double citizenship, Spanish and Brazilian.
+I love science, airplanes, robots, arts, cooking, and all sorts of sports.
 
 Aeronautical Engineering
 ------
