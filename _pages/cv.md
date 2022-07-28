@@ -28,13 +28,13 @@ Education
 
 Professional Experience
 ======
-* 2020-present	Graduate Research Assistant
+* 2020-present	&nbsp;Graduate Research Assistant
 	*	Field and Aerial Robotics (FARO) Laboratory. Department of Mechanical and Aerospace Engineering, Benjamin M. Statler College of Engineering and Mineral Resources, West Virginia University (WVU), Morgantown, WV 26505. USA. https://farolab.wvu.edu/.
-* 2019		Independent Consultant
+* 2019		&nbsp;Independent Consultant
 	*	Mentor for Udacity’s Sensor Fusion Nanodegree Program. https://www.udacity.com/.
-* 2018-2019	Design and Development Engineer 
+* 2018-2019	&nbsp;Design and Development Engineer 
 	*	Birdview DroneScan. Botucatu, SP. Brazil. https://birdview.com.br/.
-* 2016-2018	Graduate Research Assistant
+* 2016-2018	&nbsp;Graduate Research Assistant
 	*	Fan Noise Research Group, Department of Aeronautical Engineering, São Carlos School of Engineering, University of São Paulo. São Carlos, SP. Brazil.  http://www.saa.eesc.usp.br/.
 * 2015		Undergraduate Research Assistant
 	*	Fan Noise Research Group, Department of Aeronautical Engineering, São Carlos School of Engineering, University of São Paulo. São Carlos, SP. Brazil.  http://www.saa.eesc.usp.br/.
@@ -63,22 +63,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
 Certificates
 ======
@@ -99,4 +83,38 @@ Certificates
 	*	Estimation and Learning;
 	*	Computational Motion Planning;
 	*	Capstone Project.
+
+HONORS/AWARDS
+* 2021-present	&nbsp;Statler Ph.D. Fellowship.
+Benjamin M. Statler College of Engineering and Mineral Sciences, West Virginia University.
+* 2020		&nbsp;Graduate Research Assistantship.
+West Virginia University.
+* 2017-2018 	&nbsp;Graduate Research Scholarship.
+Fundação para o Incremento da Pesquisa e do Aperfeiçoamento Industrial (FIPAI).
+* 2016-2018 	&nbsp;Master’s Studies Scholarship.
+Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
+* 2015		&nbsp;Undergraduate Research Scholarship.
+Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
+* 2013-2014	&nbsp;Science Without Borders Scholarship. 
+Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
+
+ACADEMIC SERVICE/REVIEWER WORK
+* IEEE Robotics and Automation Letters (RA-L).
+* IEEE International Conference on Robotics and Automation (ICRA).
+* IEEE International Conference on Intelligent Robots and Systems (IROS).
+* Journal of Navigation.
+
+MEMBERSHIPS AND AFFILIATIONS
+* IEEE Student Member.
+* IEEE Robotics & Automation Society Member.
+* AIAA Student Member.
+* West Virginia University’s Brazilian Student Association (BSA)  Member.
+* Brazilian Student Association (BRASA) Member
+* Mentor for the BRASA Pré program, which prepares students to apply to international graduate programs.
+
+LANGUAGE SKILLS
+* English	&nbsp;Proficient/Fluent.
+* Portuguese	&nbsp;Native Speaker.
+* Spanish	&nbsp;Native Speaker.
+* French	&nbsp;Intermediate.
 
