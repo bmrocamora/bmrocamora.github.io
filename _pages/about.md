@@ -1,5 +1,12 @@
-Who am I?
-======
+---
+permalink: /
+title: "Bernardo Martinez Rocamora Junior personal website"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 My name is Bernardo Martinez and I'm a Ph.D. Student at West Virginia University. I was born in São Paulo, Brazil, but I'm a dual citizen: my mom is Brazilian and my dad is Spanish! I'm very proud of my heritage!
 
