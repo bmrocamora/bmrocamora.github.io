@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Bernardo Martinez and I'm a Ph.D. Student at West Virginia University. I was born in São Paulo, Brazil, but I'm a dual citizen: my mom is Brazilian and my dad is Spanish! I'm very proud of my heritage!
-
-My Background
-======
 Aeronautical Engineering
 ------
 My bachelor's degree was in Aeronautical Engineering from the University of São Paulo, which is the most prestigious university of Latin America. I had the opportunity to study all Aeronautics areas including Aerodynamics, Structures, Control, Certification, Aircraft Design etc. My final group project was the conceptual design of a commuter aircraft and my bachelor thesis was the aerodynamic conceptual design and performance of a propeller for this aircraft.
