@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-2020-present * __Ph.D. in Aerospace Engineering__
+2020-present 
+* __Ph.D. in Aerospace Engineering__
 	*	Advisor: Guilherme A. S. Pereira.
 	*	West Virginia University (WVU), Morgantown, WV. USA.
 * 2015-2019	__M.Sc. in Mechanical Engineering__
