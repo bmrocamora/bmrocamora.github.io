@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2020-present	Ph.D. in Aerospace Engineering
+	*	Advisor: Guilherme A. S. Pereira.
+	*	West Virginia University (WVU), Morgantown, WV. USA.
+* 2015-2019	M.Sc. in Mechanical Engineering
+	*	Experimental Analysis of Fan Noise and Performance at the EESC-USP Fan Rig Workbench.
+	*	Advisor: Paulo C. Greco Jr.
+	*	University of São Paulo (USP), São Carlos, SP. Brazil.
+* 2010-2015	B.Sc. in Aeronautical Engineering
+	*	Propeller Aerodynamic Design and Performance for a Commuter Aircraft.
+	*	Advisor: Hernán D. Cerón-Muñoz.
+	*	University of São Paulo (USP), São Carlos, SP. Brazil.
+* 2013-2014	B.Sc. in Aeronautics and Aerospace Engineering
+	*	Brazil’s Science without Borders program. “Sandwich” year.
+	*	University of Southampton (Soton), Southampton, UK.
 
 Work experience
 ======
