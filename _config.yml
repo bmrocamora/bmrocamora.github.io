@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bernardo Martinez / PhD Student"
+title                    : "Bernardo Martinez / Personal Website"
 title_separator          : "-"
 name                     : &name "Bernardo Martinez Rocamora Jr."
-description              : &description "personal description"
+description              : &description "PhD Student and Robotics Researcher"
 url                      : https://bmrocamora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bmrocamora/bmrocamora.github.io"
