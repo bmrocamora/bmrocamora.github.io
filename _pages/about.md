@@ -1,13 +1,16 @@
 Who am I?
-
-My name is Bernardo Martinez, 
-
-Aeronautical Engineering
 ======
+
+My name is Bernardo Martinez and I'm a Ph.D. Student at West Virginia University. I was born in São Paulo, Brazil, but I'm a dual citizen: my mom is Brazilian and my dad is Spanish! I'm very proud of my heritage!
+
+My Background
+======
+Aeronautical Engineering
+------
 My bachelor's degree was in Aeronautical Engineering from the University of São Paulo, which is the most prestigious university of Latin America. I had the opportunity to study all Aeronautics areas including Aerodynamics, Structures, Control, Certification, Aircraft Design etc. My final group project was the conceptual design of a commuter aircraft and my bachelor thesis was the aerodynamic conceptual design and performance of a propeller for this aircraft.
 
 Grad-School Pt.1 - M.Sc.
-======
+------
 Right after, I decided to pursue a  a M.Sc. degree in Mechanical Engineering. During this time, I got involved with a research project in partnership with Embraer, a well-known company of the aeronautical industry, after being invited by a professor to be part of his research team. In this project, I worked with an aeroacoustics wind-tunnel, in which I was responsible for most of the experimental activities. My activities included conducting the experiments, processing and analyzing the data collected using MATLAB and Excel. I also improved the instrumentation of the experimental setup, designing acoustic and flow measurement systems, a probe positioner and an instrumented stator vane using MEMS microphones.
 
 Working in a Startup
@@ -20,4 +23,4 @@ I also worked as a mentor for the Sensor Fusion Nanodegree at Udacity for a coup
 
 Grad-School Pt.2 - Ph.D.
 ------
-Now I'm a Robotics Researcher, Ph.D. Student at West Virginia University. My Ph.D. research focuses on robot motion planning for navigation in cluttered environments, working at the Field and Aerial Robotics lab under the supervision of Dr. Guilherme Pereira. For the last year, I've worked as the manipulation lead, and system integration and autonomy co-lead for the WVU Robotics team in the NASA Space Robotics Challenge Phase-2. I'm a recipient of the Statler PhD Fellowship.
+My Ph.D. research focuses on robot motion planning for navigation in cluttered environments, working at the Field and Aerial Robotics lab under the supervision of Dr. Guilherme Pereira. For the last year, I've worked as the manipulation lead, and system integration and autonomy co-lead for the WVU Robotics team in the NASA Space Robotics Challenge Phase-2. I'm a recipient of the Statler PhD Fellowship.
