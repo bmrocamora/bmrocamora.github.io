@@ -11,32 +11,32 @@ redirect_from:
 
 Education
 ======
-* __Ph.D. in Aerospace Engineering__                        2020-present
+* __Ph.D. in Aerospace Engineering__ (2020-present)
 	*	Advisor: Guilherme A. S. Pereira.
 	*	West Virginia University (WVU), Morgantown, WV. USA.
-* __M.Sc. in Mechanical Engineering__                        2015-2019
+* __M.Sc. in Mechanical Engineering__ (2015-2019)
 	*	Experimental Analysis of Fan Noise and Performance at the EESC-USP Fan Rig Workbench.
 	*	Advisor: Paulo C. Greco Jr.
 	*	University of São Paulo (USP), São Carlos, SP. Brazil.
-* __B.Sc. in Aeronautical Engineering__                        2010-2015
+* __B.Sc. in Aeronautical Engineering__ (2010-2015)
 	*	Propeller Aerodynamic Design and Performance for a Commuter Aircraft.
 	*	Advisor: Hernán D. Cerón-Muñoz.
 	*	University of São Paulo (USP), São Carlos, SP. Brazil.
-* __B.Sc. in Aeronautics and Aerospace Engineering__                        2013-2014
+* __B.Sc. in Aeronautics and Aerospace Engineering__ (2013-2014)
 	*	Brazil’s Science without Borders program. “Sandwich” year.
 	*	University of Southampton (Soton), Southampton, UK.
 
 Professional Experience
 ======
-* __Graduate Research Assistant__                        2020-present
+* __Graduate Research Assistant__ (2020-present)
 	*	Field and Aerial Robotics (FARO) Laboratory. Department of Mechanical and Aerospace Engineering, Benjamin M. Statler College of Engineering and Mineral Resources, West Virginia University (WVU), Morgantown, WV 26505. USA. https://farolab.wvu.edu/.
-* __Independent Consultant__                        2019
+* __Independent Consultant__ (2019)
 	*	Mentor for Udacity’s Sensor Fusion Nanodegree Program. https://www.udacity.com/.
-* __Design and Development Engineer__                        2018-2019
+* __Design and Development Engineer__ (2018-2019)
 	*	Birdview DroneScan. Botucatu, SP. Brazil. https://birdview.com.br/.
-* __Graduate Research Assistant__                        2016-2018
+* __Graduate Research Assistant__ (2016-2018)
 	*	Fan Noise Research Group, Department of Aeronautical Engineering, São Carlos School of Engineering, University of São Paulo. São Carlos, SP. Brazil.  http://www.saa.eesc.usp.br/.
-* __Undergraduate Research Assistant__                        2015
+* __Undergraduate Research Assistant__ (2015)
 	*	Fan Noise Research Group, Department of Aeronautical Engineering, São Carlos School of Engineering, University of São Paulo. São Carlos, SP. Brazil.  http://www.saa.eesc.usp.br/.
   
 Development Experience
@@ -86,18 +86,18 @@ Certificates
 
 Honors and Awards
 ======
-* __Statler Ph.D. Fellowship.__                        2021-present
-Benjamin M. Statler College of Engineering and Mineral Sciences, West Virginia University.
-* __Graduate Research Assistantship.__                        2020
-West Virginia University.
-* __Graduate Research Scholarship.__                        2017-2018
-Fundação para o Incremento da Pesquisa e do Aperfeiçoamento Industrial (FIPAI).
-* __Master’s Studies Scholarship.__                        2016-2018
-Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
-* __Undergraduate Research Scholarship.__                        2015
-Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
-* __Science Without Borders Scholarship.__                        2013-2014
-Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
+* __Statler Ph.D. Fellowship.__ (2021-present)
+	*	Sponsor: Benjamin M. Statler College of Engineering and Mineral Sciences, West Virginia University.
+* __Graduate Research Assistantship.__ (2020)
+	*	Sponsor: West Virginia University.
+* __Graduate Research Scholarship.__ (2017-2018)
+	*	Sponsor: Fundação para o Incremento da Pesquisa e do Aperfeiçoamento Industrial (FIPAI).
+* __Master’s Studies Scholarship.__ (2016-2018)
+	*	Sponsor: Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
+* __Undergraduate Research Scholarship.__ (2015)
+	*	Sponsor: Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
+* __Science Without Borders Scholarship.__ (2013-2014)
+	*	Sponsor: Conselho Nacional de Desenvolvimento Cientifico e Tecnológico (CNPq).
 
 Academic Service (Reviewer Work)
 ======
