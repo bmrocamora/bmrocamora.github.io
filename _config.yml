@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bernardo Martinez / Personal Website"
+title                    : "Bernardo Martinez / Robotics Researcher"
 title_separator          : "-"
 name                     : &name "Bernardo Martinez Rocamora Jr."
 description              : &description "PhD Student and Robotics Researcher"
