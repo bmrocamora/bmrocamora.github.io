@@ -26,26 +26,37 @@ Education
 	*	Brazil’s Science without Borders program. “Sandwich” year.
 	*	University of Southampton (Soton), Southampton, UK.
 
-Work experience
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-present	Graduate Research Assistant
+	*	Field and Aerial Robotics (FARO) Laboratory. Department of Mechanical and Aerospace Engineering, Benjamin M. Statler College of Engineering and Mineral Resources, West Virginia University (WVU), Morgantown, WV 26505. USA. https://farolab.wvu.edu/.
+* 2019		Independent Consultant
+	*	Mentor for Udacity’s Sensor Fusion Nanodegree Program. https://www.udacity.com/.
+* 2018-2019	Design and Development Engineer 
+	*	Birdview DroneScan. Botucatu, SP. Brazil. https://birdview.com.br/.
+* 2016-2018	Graduate Research Assistant
+	*	Fan Noise Research Group, Department of Aeronautical Engineering, São Carlos School of Engineering, University of São Paulo. São Carlos, SP. Brazil.  http://www.saa.eesc.usp.br/.
+* 2015		Undergraduate Research Assistant
+	*	Fan Noise Research Group, Department of Aeronautical Engineering, São Carlos School of Engineering, University of São Paulo. São Carlos, SP. Brazil.  http://www.saa.eesc.usp.br/.
   
-Skills
+Development Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Design of Autonomous Vehicles and Robots (in collaboration with others):
+	*	Tether-powered drone.
+	*	Caged drone.
+	*	Automatic dispenser drones.
+* Software Experience:
+	*	Languages: C++, Matlab, Python, JavaScript.
+	*	Libraries and Tools: Robot Operating System (ROS), Open Motion Planning Library (OMPL), Open-source Computer Vision Library (OpenCV), Point Cloud Library (PCL), Boost Graph Library (BGL), CUDA toolkit, Open-source Autopilot (PX4).
+	*	Simulation:  Gazebo, CoppeliaSim, StarCCM+, ANSYS.
+	*	CAD: Solidworks, SolidEdge, Autodesk Inventor, Fusion 360, CATIA.
+	*	Operating Systems: Linux, MS Windows.
+* Experience with Commercial Robots and Sensors:
+	*	Aerial robots: DJI Phantom 3, Phantom 4, and Matrice M100 quadrotors, Holybro QAV250, S500, and X500 quadrotors.
+	*	Ground mobile robots: iRobot Create II, ClearPath Husky.
+	*	Manipulators: Universal Robots UR3.
+	*	LiDARS: Ouster OS1, Hokuyo UTM-30LX, YDLIDAR X4 and G4, Intel RealSense L515.
+	*	Cameras: Raspberry Pi Camera Module, Intel RealSense D435, D435i, and T265, MS Azure Kinect, and USB Cameras.
 
 Publications
 ======
@@ -68,3 +79,24 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Certificates
+======
+* Deep Learning Specialization. DeepLearning.AI (Coursera, ~17 weeks).
+	*	Neural Networks and Deep Learning;
+	*	Improving Deep Neural Networks: Hyperparameters Tuning, Regularization, and Optimization;
+	*	Structuring Machine Learning Projects;
+	*	Convolutional Neural Networks;
+	*	Sequence Models.
+* Fundamentals of Reinforcement Learning. University of Alberta and Alberta Machine Intelligence Institute (Coursera).
+* Flying Car Nanodegree Program. Udacity.
+* Design Sprint Nanodegree Program. Udacity.
+* Control of Mobile Robots. Georgia Institute of Technology (Coursera). 
+* Robotics Specialization. University of Pennsylvania (Coursera, ~26 weeks).
+	*	Aerial Robotics;
+	*	Mobility;
+	*	Perception;
+	*	Estimation and Learning;
+	*	Computational Motion Planning;
+	*	Capstone Project.
+
