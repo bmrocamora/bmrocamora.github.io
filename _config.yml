@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bernardo Martinez / Researcher"
 title_separator          : "-"
 name                     : &name "Bernardo Martinez Rocamora Junior"
-description              : &description "Aeronautical Engineer - PhD Student - Robotics Scientist"
+description              : &description "PhD Student - Aeronautical Engineer - Robotics Scientist"
 url                      : https://bmrocamora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bmrocamora/bmrocamora.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bernardo Martinez Rocamora Junior"
   avatar           : "bio-photo-sq.jpg"
-  bio              : "Aeronautical Engineer - PhD Student - Robotics Scientist"
+  bio              : "PhD Student - Aeronautical Engineer - Robotics Scientist"
   location         : "Morgantown, WV"
   employer         : "West Virginia University"
   pubmed           : 
