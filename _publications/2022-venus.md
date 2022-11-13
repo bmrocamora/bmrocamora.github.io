@@ -5,7 +5,7 @@ permalink: /publication/2022-venus
 excerpt: 'This paper presents a solution to the motion planning problem for an autonomous airship under super-rotation winds of the Venusian atmosphere.'
 date: 2022-06-21
 venue: '2022 International Conference on Unmanned Aircraft Systems (ICUAS)'
-paperurl: 'http://bmrocamora.github.io/files/Towards_Finding_Energy_Efficient_Paths_for_Hybrid_Airships_in_the_Atmosphere_of_Venus.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9836111'
 citation: 'B. Martinez R., A. P. I. Juan and G. A. S. Pereira, "Towards Finding Energy Efficient Paths for Hybrid Airships in the Atmosphere of Venus," 2022 International Conference on Unmanned Aircraft Systems (ICUAS), 2022, pp. 386-393, doi: 10.1109/ICUAS54217.2022.9836111.'
 ---
 Abstract:
