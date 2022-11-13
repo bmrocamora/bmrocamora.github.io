@@ -5,7 +5,7 @@ permalink: /publication/2022-parallel
 excerpt: 'This paper presents a parallel motion planner for mobile robots and autonomous vehicles based on lattices created in the sensor space of planar range finders.'
 date: 2022-01-01
 venue: 'Sensors'
-paperurl: 'http://bmrocamora.github.io/files/Parallel_Sensor-Space_Lattice_Planner_for_Real-Time_Obstacle_Avoidance.pdf'
+paperurl: 'https://www.mdpi.com/1424-8220/22/13/4770'
 citation: 'Martinez Rocamora, B., Jr.; Pereira, G.A.S. Parallel Sensor-Space Lattice Planner for Real-Time Obstacle Avoidance. Sensors 2022, 22, 4770. https://doi.org/10.3390/s22134770.'
 ---
 Abstract:
