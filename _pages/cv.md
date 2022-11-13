@@ -29,8 +29,8 @@ Education
 	*	Propeller Aerodynamic Design and Performance for a Commuter Aircraft.
 	*	Advisor: Hernán D. Cerón-Muñoz.
 	*	University of São Paulo (USP), São Carlos, SP. Brazil.
-* __B.Sc. in Aeronautics and Aerospace Engineering__ (2013-2014)
-	*	Brazil’s Science without Borders program. “Sandwich” year.
+* __“Sandwich” year in B.Eng. in Aeronautics and Astronautics__ (2013-2014)
+	*	Brazil’s Science without Borders program. 
 	*	University of Southampton (Soton), Southampton, UK.
 
 Professional Experience
