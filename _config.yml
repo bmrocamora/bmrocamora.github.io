@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bernardo Martinez Rocamora Jr."
+  name             : "Bernardo Martinez Rocamora Junior"
   avatar           : "bio-photo-sq.jpg"
-  bio              : "PhD Student, Robotics Enthusiast"
+  bio              : "Aeronautical Engineer - PhD Student - Robotics Scientist"
   location         : "Morgantown, WV"
   employer         : "West Virginia University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y-0-WwwAAAAJ/"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Bernardo-Martinez-2/"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@bmrocamora"
+  twitter          :
   vine             :
   weibo            :
   xing             :
