@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Bernardo Martinez / Robotics Researcher"
 title_separator          : "-"
-name                     : &name "Bernardo Martinez Rocamora Jr."
+name                     : &name "Bernardo Martinez Rocamora Junior"
 description              : &description "PhD Student and Robotics Researcher"
 url                      : https://bmrocamora.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bernardo Martinez Rocamora Jr."
   avatar           : "bio-photo.jpg"
-  bio              : "Aero & Robots"
+  bio              : "PhD Student, Robotics Enthusiast"
   location         : "Morgantown, WV"
   employer         : "West Virginia University"
   pubmed           : 
