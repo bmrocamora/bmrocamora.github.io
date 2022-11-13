@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+
+[Download my CV here](http://bmrocamora.github.io/files/Bernardo_Martinez_cv.pdf)
+
+Research Interests
+======
+Aerial Robotics, Motion Planning, Autonomous Systems, Artificial Intelligence.
+
 Education
 ======
 * __Ph.D. in Aerospace Engineering__ (2020-present)
