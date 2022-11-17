@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, stranger! My name is Bernardo and I am a Ph.D. student at West Virginia University. I love science, airplanes, robots, arts, cooking, and all sorts of sports. I was born in São Paulo, Brazil, and I have a dual citizenship, Spanish and Brazilian.
+Hello! My name is Bernardo and I am a Ph.D. student at West Virginia University. I love science, airplanes, robots, arts, cooking, and all sorts of sports. I was born in São Paulo, Brazil, and I have a dual citizenship, Spanish and Brazilian.
 
 My bachelor's degree was in Aeronautical Engineering from the University of São Paulo, which is the most prestigious university of Latin America. I had the opportunity to study all Aeronautics areas including Aerodynamics, Structures, Control, Certification, Aircraft Design etc. My final group project was the conceptual design of a commuter aircraft and my bachelor thesis was the aerodynamic conceptual design and performance of a propeller for this aircraft.
 
