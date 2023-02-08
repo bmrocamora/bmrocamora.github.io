@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
-<iframe src="/image.html" height="700" width="850" style="border:none;"></iframe>
-
-<p style="text-decoration:underline;"><a href="/image.html">See a map of all the places I've given a talk!</a></p>
-
-
 [Download my CV here](http://bmrocamora.github.io/files/Bernardo_Martinez_cv.pdf)
 
 Research Interests
