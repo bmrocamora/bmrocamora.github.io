@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
+<iframe src="/_pages/image.html" height="700" width="850" style="border:none;"></iframe>
+
+
 [Download my CV here](http://bmrocamora.github.io/files/Bernardo_Martinez_cv.pdf)
 
 Research Interests
